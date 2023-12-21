@@ -1,0 +1,7 @@
+2023-12-21 21:24:00,826 - INFO - Extracting players statistics
+2023-12-21 21:24:00,832 - INFO - a total of 12 was extracted
+2023-12-21 21:24:00,832 - INFO - a total of 12 was extracted
+2023-12-21 21:24:00,832 - INFO - Converting to DataFrame
+2023-12-21 21:24:00,834 - INFO - Extracting players biography
+2023-12-21 21:24:00,837 - INFO - Creating a CSV file
+2023-12-21 21:24:00,844 - INFO - Successful
